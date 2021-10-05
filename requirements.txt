@@ -1,7 +1,8 @@
 pandas
-DecisionTreeRegressor
-plot_tree
-matplotlib.pyplot
+matplotlib
 seaborn
 streamlit
-plotly.express
+plotly
+xgboost
+category_encoders
+numpy
