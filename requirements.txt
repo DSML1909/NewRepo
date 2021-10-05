@@ -3,3 +3,5 @@ DecisionTreeRegressor
 plot_tree
 matplotlib.pyplot
 seaborn
+streamlit
+plotly.express
